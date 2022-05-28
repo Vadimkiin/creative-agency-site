@@ -179,7 +179,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/img/viewing-background-city.png');
+    background-image: url('../img/viewing-background-city.png');
     opacity: 0.2;
     background-position: bottom center;
     background-repeat: no-repeat;
@@ -319,7 +319,7 @@
     width: 100%;
     height: 100%;
     background-position: bottom center;
-    background-image: url('/img/amazing-team-background-image.png');
+    background-image: url('../img/amazing-team-background-image.png');
 }
 .amazing-team {
     width: 100%;
@@ -513,7 +513,7 @@
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/img/testimonials-background.png');
+    background-image: url('../img/testimonials-background.png');
     opacity: 0.2;
     z-index: -1;
     background-size: cover;
@@ -670,7 +670,7 @@ button {
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/img/footer-background.png');
+    background-image: url('../img/footer-background.png');
     z-index: -1;
     opacity: 0.2;
     background-repeat: no-repeat;
