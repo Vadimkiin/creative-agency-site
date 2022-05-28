@@ -1,0 +1,1 @@
+npx surge . tajam-project.surge.sh
